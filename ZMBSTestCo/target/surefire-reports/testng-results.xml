@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[*****ON START ******]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-33-01]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-33-01]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Multiple_Night_Single_Room_Booking]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-09-18======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-10-15=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 27]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-33-48]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Multiple_Night_Single_Room_Booking]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-33-48]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Single_Room_Multiple_Night_Booking_Multiple_Addon]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-09-26======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-10-20=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 24]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-34-40]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Single_Room_Multiple_Night_Booking_Multiple_Addon]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-34-40]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Multiple_Night_Multiple_RoomBooking_With_Single_RoomType]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-10-03======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-10-19=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 16]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest2 :- Onkar]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest2 :- Hajare]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-35-29]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Multiple_Night_Multiple_RoomBooking_With_Single_RoomType]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-35-29]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Multiple_Night_Multiple_Room_Booking_With_Multiple_RoomTypes]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-09-15======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-10-09=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 24]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest2 :- Onkar]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest2 :- Hajare]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest2 :- Onkar]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest2 :- Hajare]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-36-20]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Multiple_Night_Multiple_Room_Booking_With_Multiple_RoomTypes]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-36-20]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Verify_HomePage_Buttons]]>
+    </line>
+    <line>
+      <![CDATA[To Verify all buttons of Homepage is Enabled or not ]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-10-03======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-10-04=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 1]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Member Rate Button is Enabled :- true]]>
+    </line>
+    <line>
+      <![CDATA[Search Button is Enabled :-true]]>
+    </line>
+    <line>
+      <![CDATA[RatePlan Button is Enabled  :- true]]>
+    </line>
+    <line>
+      <![CDATA[View_amenities Button is Enabled :- true]]>
+    </line>
+    <line>
+      <![CDATA[Booking Details Page RatePlan name Button is Enabled :- true]]>
+    </line>
+    <line>
+      <![CDATA[BookingDetails_CompleteBooking_DownIcon Button is Enabled :- true]]>
+    </line>
+    <line>
+      <![CDATA[Booking Details Delete Button is Enabled :- true]]>
+    </line>
+    <line>
+      <![CDATA[HomePage CompleteBookingBtn is Enabled :-  true]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-36-44]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Verify_HomePage_Buttons]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-36-44]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Verify_Multiple_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-09-24======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-10-20=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 26]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[HomePageTotalAmount  :-  NZD 11,876]]>
+    </line>
+    <line>
+      <![CDATA[CartPageTotal Amount :- NZD 11,876]]>
+    </line>
+    <line>
+      <![CDATA[CartPage Total Amount Validated with HomePage Total Amount Successfully ]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[ConfiramtionPageTotalAmount  :- Tax inclusive NZD 11876.00]]>
+    </line>
+    <line>
+      <![CDATA[ConfiramtionPage Total Amount Validated With CartPage Total Amount Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-37-33]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Verify_Multiple_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-37-33]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Verify_Multiple_Night_Single_Room_Booking_Confirmation_Status]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-09-15======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-10-01=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 16]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[ Booking Status Verified Successfully ]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-38-18]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Verify_Multiple_Night_Single_Room_Booking_Confirmation_Status]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-38-18]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Verify_MailId_MobileNO_for_MultipleNight_SingleRoom_]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-10-07======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-10-23=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 16]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Confirmation Page Mail Id :-  onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Mail ID Verified Successfully ]]>
+    </line>
+    <line>
+      <![CDATA[ Confirmation Page Mobile no :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[ Mobile Number Verified Successfully ]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-06]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Verify_MailId_MobileNO_for_MultipleNight_SingleRoom_]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-06]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :demo]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-09]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :demo]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-09]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Single_Night_Single_RoomBooking]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-09-24======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-09-25=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 1]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-53]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Single_Night_Single_RoomBooking]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-53]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Single_Night_Single_Room_SingleBooking_With_Single_Addon]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-09-16======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-09-17=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 1]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-40-37]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Single_Night_Single_Room_SingleBooking_With_Single_Addon]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-40-37]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Single_Night_Single_Room_Booking_With_PromoCode]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-09-18======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-09-19=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 1]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-41-22]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Single_Night_Single_Room_Booking_With_PromoCode]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-41-22]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Single_Night_Multiple_RoomBooking_With_Single_RoomType]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-10-12======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-10-13=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 1]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest2 :- Onkar]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest2 :- Hajare]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-42-09]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Single_Night_Multiple_RoomBooking_With_Single_RoomType]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-42-09]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Single_Night_Multiple_Room_Booking_With_Multiple_RoomTypes]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-09-25======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-10-22=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 27]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest2 :- Onkar]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest2 :- Hajare]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest2 :- Onkar]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest2 :- Hajare]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-43-02]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Single_Night_Multiple_Room_Booking_With_Multiple_RoomTypes]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-43-02]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Verify_Single_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-09-27======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-09-28=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 1]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[HomePageTotalAmount  :-  NZD 601]]>
+    </line>
+    <line>
+      <![CDATA[CartPageTotal Amount :- NZD 601]]>
+    </line>
+    <line>
+      <![CDATA[CartPage Total Amount Validated with HomePage Total Amount Successfully ]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[ConfiramtionPageTotalAmount  :- Tax inclusive NZD 601.00]]>
+    </line>
+    <line>
+      <![CDATA[ConfiramtionPage Total Amount Validated With CartPage Total Amount Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-43-47]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Verify_Single_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-43-47]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Verify_Single_Night_Single_Room_Booking_Confirmation_Status]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-09-19======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-09-20=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 1]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[ Booking Status Verified Successfully ]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-44-32]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Verify_Single_Night_Single_Room_Booking_Confirmation_Status]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-44-32]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start  :Verify_MailId_MobileNO_for_SingleNight_SingleRoom_]]>
+    </line>
+    <line>
+      <![CDATA[URL Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Close Button not found, continue without clicking]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-in Date for Booking: 2023-10-11======>]]>
+    </line>
+    <line>
+      <![CDATA[<======Check-out Date for Booking: 2023-10-12=====>]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[No of Booking Days: 1]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[--Guest Details-- ]]>
+    </line>
+    <line>
+      <![CDATA[First Name of Guest :- Nirav]]>
+    </line>
+    <line>
+      <![CDATA[Last Name of Guest :- Patel]]>
+    </line>
+    <line>
+      <![CDATA[Contact no of Guest :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Confirmation Page Mail Id :-  onkar@staah.com]]>
+    </line>
+    <line>
+      <![CDATA[Mail ID Verified Successfully ]]>
+    </line>
+    <line>
+      <![CDATA[ Confirmation Page Mobile no :- 8888120130]]>
+    </line>
+    <line>
+      <![CDATA[ Mobile Number Verified Successfully ]]>
+    </line>
+    <line>
+      <![CDATA[Test Started Time   :-  2023-Sep-14 10-45-18]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success  :Verify_MailId_MobileNO_for_SingleNight_SingleRoom_]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-14T10:33:01 IST" name="Suite" finished-at="2023-09-14T10:45:19 IST" duration-ms="737811">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T10:33:01 IST" name="Test" finished-at="2023-09-14T10:45:19 IST" duration-ms="737811">
+      <class name="UI_Verification.MBSTestAutomate">
+        <test-method is-config="true" signature="getProperty()[pri:0, instance:UI_Verification.MBSTestAutomate@42a48628]" started-at="2023-09-14T10:33:01 IST" name="getProperty" finished-at="2023-09-14T10:33:01 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProperty -->
+        <test-method signature="Multiple_Night_Single_Room_Booking()[pri:1, instance:UI_Verification.MBSTestAutomate@42a48628]" started-at="2023-09-14T10:33:01 IST" name="Multiple_Night_Single_Room_Booking" finished-at="2023-09-14T10:33:48 IST" duration-ms="47305" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-33-01]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Multiple_Night_Single_Room_Booking]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-09-18======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-10-15=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 27]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-33-48]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Multiple_Night_Single_Room_Booking]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Multiple_Night_Single_Room_Booking -->
+        <test-method signature="Single_Room_Multiple_Night_Booking_Multiple_Addon()[pri:2, instance:UI_Verification.MBSTestAutomate@42a48628]" started-at="2023-09-14T10:33:48 IST" name="Single_Room_Multiple_Night_Booking_Multiple_Addon" finished-at="2023-09-14T10:34:40 IST" duration-ms="52123" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-33-48]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Single_Room_Multiple_Night_Booking_Multiple_Addon]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-09-26======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-10-20=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 24]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-34-40]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Single_Room_Multiple_Night_Booking_Multiple_Addon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Single_Room_Multiple_Night_Booking_Multiple_Addon -->
+        <test-method signature="Multiple_Night_Multiple_RoomBooking_With_Single_RoomType()[pri:3, instance:UI_Verification.MBSTestAutomate@42a48628]" started-at="2023-09-14T10:34:40 IST" name="Multiple_Night_Multiple_RoomBooking_With_Single_RoomType" finished-at="2023-09-14T10:35:29 IST" duration-ms="48447" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-34-40]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Multiple_Night_Multiple_RoomBooking_With_Single_RoomType]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-10-03======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-10-19=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 16]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest2 :- Onkar]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest2 :- Hajare]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-35-29]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Multiple_Night_Multiple_RoomBooking_With_Single_RoomType]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Multiple_Night_Multiple_RoomBooking_With_Single_RoomType -->
+        <test-method signature="Multiple_Night_Multiple_Room_Booking_With_Multiple_RoomTypes()[pri:4, instance:UI_Verification.MBSTestAutomate@42a48628]" started-at="2023-09-14T10:35:29 IST" name="Multiple_Night_Multiple_Room_Booking_With_Multiple_RoomTypes" finished-at="2023-09-14T10:36:20 IST" duration-ms="51098" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-35-29]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Multiple_Night_Multiple_Room_Booking_With_Multiple_RoomTypes]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-09-15======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-10-09=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 24]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest2 :- Onkar]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest2 :- Hajare]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest2 :- Onkar]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest2 :- Hajare]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-36-20]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Multiple_Night_Multiple_Room_Booking_With_Multiple_RoomTypes]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Multiple_Night_Multiple_Room_Booking_With_Multiple_RoomTypes -->
+        <test-method signature="Verify_HomePage_Buttons()[pri:5, instance:UI_Verification.MBSTestAutomate@42a48628]" started-at="2023-09-14T10:36:20 IST" name="Verify_HomePage_Buttons" finished-at="2023-09-14T10:36:44 IST" duration-ms="23825" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-36-20]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Verify_HomePage_Buttons]]>
+            </line>
+            <line>
+              <![CDATA[To Verify all buttons of Homepage is Enabled or not ]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-10-03======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-10-04=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 1]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Member Rate Button is Enabled :- true]]>
+            </line>
+            <line>
+              <![CDATA[Search Button is Enabled :-true]]>
+            </line>
+            <line>
+              <![CDATA[RatePlan Button is Enabled  :- true]]>
+            </line>
+            <line>
+              <![CDATA[View_amenities Button is Enabled :- true]]>
+            </line>
+            <line>
+              <![CDATA[Booking Details Page RatePlan name Button is Enabled :- true]]>
+            </line>
+            <line>
+              <![CDATA[BookingDetails_CompleteBooking_DownIcon Button is Enabled :- true]]>
+            </line>
+            <line>
+              <![CDATA[Booking Details Delete Button is Enabled :- true]]>
+            </line>
+            <line>
+              <![CDATA[HomePage CompleteBookingBtn is Enabled :-  true]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-36-44]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Verify_HomePage_Buttons]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_HomePage_Buttons -->
+        <test-method signature="Verify_Multiple_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage()[pri:6, instance:UI_Verification.MBSTestAutomate@42a48628]" started-at="2023-09-14T10:36:44 IST" name="Verify_Multiple_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage" finished-at="2023-09-14T10:37:33 IST" duration-ms="49233" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-36-44]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Verify_Multiple_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-09-24======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-10-20=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 26]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[HomePageTotalAmount  :-  NZD 11,876]]>
+            </line>
+            <line>
+              <![CDATA[CartPageTotal Amount :- NZD 11,876]]>
+            </line>
+            <line>
+              <![CDATA[CartPage Total Amount Validated with HomePage Total Amount Successfully ]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[ConfiramtionPageTotalAmount  :- Tax inclusive NZD 11876.00]]>
+            </line>
+            <line>
+              <![CDATA[ConfiramtionPage Total Amount Validated With CartPage Total Amount Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-37-33]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Verify_Multiple_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Multiple_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage -->
+        <test-method signature="Verify_Multiple_Night_Single_Room_Booking_Confirmation_Status()[pri:7, instance:UI_Verification.MBSTestAutomate@42a48628]" started-at="2023-09-14T10:37:33 IST" name="Verify_Multiple_Night_Single_Room_Booking_Confirmation_Status" finished-at="2023-09-14T10:38:18 IST" duration-ms="45197" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-37-33]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Verify_Multiple_Night_Single_Room_Booking_Confirmation_Status]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-09-15======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-10-01=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 16]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[ Booking Status Verified Successfully ]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-38-18]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Verify_Multiple_Night_Single_Room_Booking_Confirmation_Status]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Multiple_Night_Single_Room_Booking_Confirmation_Status -->
+        <test-method signature="Verify_MailId_MobileNO_for_MultipleNight_SingleRoom_()[pri:8, instance:UI_Verification.MBSTestAutomate@42a48628]" started-at="2023-09-14T10:38:18 IST" name="Verify_MailId_MobileNO_for_MultipleNight_SingleRoom_" finished-at="2023-09-14T10:39:06 IST" duration-ms="48111" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-38-18]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Verify_MailId_MobileNO_for_MultipleNight_SingleRoom_]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-10-07======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-10-23=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 16]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Confirmation Page Mail Id :-  onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Mail ID Verified Successfully ]]>
+            </line>
+            <line>
+              <![CDATA[ Confirmation Page Mobile no :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[ Mobile Number Verified Successfully ]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-06]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Verify_MailId_MobileNO_for_MultipleNight_SingleRoom_]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_MailId_MobileNO_for_MultipleNight_SingleRoom_ -->
+      </class> <!-- UI_Verification.MBSTestAutomate -->
+      <class name="UI_Verification.Single_Night_TC">
+        <test-method is-config="true" signature="getProperty()[pri:0, instance:UI_Verification.Single_Night_TC@38d8f54a]" started-at="2023-09-14T10:33:01 IST" name="getProperty" finished-at="2023-09-14T10:33:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProperty -->
+        <test-method signature="demo()[pri:0, instance:UI_Verification.Single_Night_TC@38d8f54a]" started-at="2023-09-14T10:39:06 IST" name="demo" finished-at="2023-09-14T10:39:09 IST" duration-ms="2724" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-06]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :demo]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-09]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :demo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="Single_Night_Single_RoomBooking()[pri:1, instance:UI_Verification.Single_Night_TC@38d8f54a]" started-at="2023-09-14T10:39:09 IST" name="Single_Night_Single_RoomBooking" finished-at="2023-09-14T10:39:53 IST" duration-ms="44277" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-09]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Single_Night_Single_RoomBooking]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-09-24======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-09-25=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 1]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-53]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Single_Night_Single_RoomBooking]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Single_Night_Single_RoomBooking -->
+        <test-method signature="Single_Night_Single_Room_SingleBooking_With_Single_Addon()[pri:2, instance:UI_Verification.Single_Night_TC@38d8f54a]" started-at="2023-09-14T10:39:53 IST" name="Single_Night_Single_Room_SingleBooking_With_Single_Addon" finished-at="2023-09-14T10:40:37 IST" duration-ms="44384" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-39-53]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Single_Night_Single_Room_SingleBooking_With_Single_Addon]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-09-16======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-09-17=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 1]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-40-37]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Single_Night_Single_Room_SingleBooking_With_Single_Addon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Single_Night_Single_Room_SingleBooking_With_Single_Addon -->
+        <test-method signature="Single_Night_Single_Room_Booking_With_PromoCode()[pri:3, instance:UI_Verification.Single_Night_TC@38d8f54a]" started-at="2023-09-14T10:40:37 IST" name="Single_Night_Single_Room_Booking_With_PromoCode" finished-at="2023-09-14T10:41:22 IST" duration-ms="44993" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-40-37]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Single_Night_Single_Room_Booking_With_PromoCode]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-09-18======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-09-19=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 1]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-41-22]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Single_Night_Single_Room_Booking_With_PromoCode]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Single_Night_Single_Room_Booking_With_PromoCode -->
+        <test-method signature="Single_Night_Multiple_RoomBooking_With_Single_RoomType()[pri:4, instance:UI_Verification.Single_Night_TC@38d8f54a]" started-at="2023-09-14T10:41:22 IST" name="Single_Night_Multiple_RoomBooking_With_Single_RoomType" finished-at="2023-09-14T10:42:09 IST" duration-ms="46632" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-41-22]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Single_Night_Multiple_RoomBooking_With_Single_RoomType]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-10-12======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-10-13=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 1]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest2 :- Onkar]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest2 :- Hajare]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-42-09]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Single_Night_Multiple_RoomBooking_With_Single_RoomType]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Single_Night_Multiple_RoomBooking_With_Single_RoomType -->
+        <test-method signature="Single_Night_Multiple_Room_Booking_With_Multiple_RoomTypes()[pri:5, instance:UI_Verification.Single_Night_TC@38d8f54a]" started-at="2023-09-14T10:42:09 IST" name="Single_Night_Multiple_Room_Booking_With_Multiple_RoomTypes" finished-at="2023-09-14T10:43:02 IST" duration-ms="52735" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-42-09]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Single_Night_Multiple_Room_Booking_With_Multiple_RoomTypes]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-09-25======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-10-22=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 27]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest2 :- Onkar]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest2 :- Hajare]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest2 :- Onkar]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest2 :- Hajare]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-43-02]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Single_Night_Multiple_Room_Booking_With_Multiple_RoomTypes]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Single_Night_Multiple_Room_Booking_With_Multiple_RoomTypes -->
+        <test-method signature="Verify_Single_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage()[pri:6, instance:UI_Verification.Single_Night_TC@38d8f54a]" started-at="2023-09-14T10:43:02 IST" name="Verify_Single_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage" finished-at="2023-09-14T10:43:47 IST" duration-ms="45499" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-43-02]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Verify_Single_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-09-27======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-09-28=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 1]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[HomePageTotalAmount  :-  NZD 601]]>
+            </line>
+            <line>
+              <![CDATA[CartPageTotal Amount :- NZD 601]]>
+            </line>
+            <line>
+              <![CDATA[CartPage Total Amount Validated with HomePage Total Amount Successfully ]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[ConfiramtionPageTotalAmount  :- Tax inclusive NZD 601.00]]>
+            </line>
+            <line>
+              <![CDATA[ConfiramtionPage Total Amount Validated With CartPage Total Amount Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-43-47]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Verify_Single_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Single_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage -->
+        <test-method signature="Verify_Single_Night_Single_Room_Booking_Confirmation_Status()[pri:7, instance:UI_Verification.Single_Night_TC@38d8f54a]" started-at="2023-09-14T10:43:47 IST" name="Verify_Single_Night_Single_Room_Booking_Confirmation_Status" finished-at="2023-09-14T10:44:32 IST" duration-ms="44739" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-43-47]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Verify_Single_Night_Single_Room_Booking_Confirmation_Status]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-09-19======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-09-20=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 1]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[ Booking Status Verified Successfully ]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-44-32]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Verify_Single_Night_Single_Room_Booking_Confirmation_Status]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Single_Night_Single_Room_Booking_Confirmation_Status -->
+        <test-method signature="Verify_MailId_MobileNO_for_SingleNight_SingleRoom_()[pri:8, instance:UI_Verification.Single_Night_TC@38d8f54a]" started-at="2023-09-14T10:44:32 IST" name="Verify_MailId_MobileNO_for_SingleNight_SingleRoom_" finished-at="2023-09-14T10:45:18 IST" duration-ms="46425" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-44-32]]>
+            </line>
+            <line>
+              <![CDATA[On Test Start  :Verify_MailId_MobileNO_for_SingleNight_SingleRoom_]]>
+            </line>
+            <line>
+              <![CDATA[URL Launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[ Close Button not found, continue without clicking]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-in Date for Booking: 2023-10-11======>]]>
+            </line>
+            <line>
+              <![CDATA[<======Check-out Date for Booking: 2023-10-12=====>]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[No of Booking Days: 1]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[--Guest Details-- ]]>
+            </line>
+            <line>
+              <![CDATA[First Name of Guest :- Nirav]]>
+            </line>
+            <line>
+              <![CDATA[Last Name of Guest :- Patel]]>
+            </line>
+            <line>
+              <![CDATA[Contact no of Guest :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[Mail id of Guest :- onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Confirmation Page Mail Id :-  onkar@staah.com]]>
+            </line>
+            <line>
+              <![CDATA[Mail ID Verified Successfully ]]>
+            </line>
+            <line>
+              <![CDATA[ Confirmation Page Mobile no :- 8888120130]]>
+            </line>
+            <line>
+              <![CDATA[ Mobile Number Verified Successfully ]]>
+            </line>
+            <line>
+              <![CDATA[Test Started Time   :-  2023-Sep-14 10-45-18]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success  :Verify_MailId_MobileNO_for_SingleNight_SingleRoom_]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_MailId_MobileNO_for_SingleNight_SingleRoom_ -->
+      </class> <!-- UI_Verification.Single_Night_TC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

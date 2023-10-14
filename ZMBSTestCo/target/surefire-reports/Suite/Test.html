@@ -1,0 +1,601 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>17/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Sep 14 10:33:01 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>737 seconds (737811 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='UI_Verification.MBSTestAutomate.Multiple_Night_Single_Room_Booking()'><b>Multiple_Night_Single_Room_Booking</b><br>Test class: UI_Verification.MBSTestAutomate<br/>
+<a href="#Output-1130258687" onClick='toggleBox("Output-1130258687", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1130258687" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1130258687">
+Test Started Time   :-  2023-Sep-14 10-33-01<br/>
+On Test Start  :Multiple_Night_Single_Room_Booking<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-09-18======><br/>
+<======Check-out Date for Booking: 2023-10-15=====><br/>
+<br/>
+<br/>
+No of Booking Days: 27<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+Test Started Time   :-  2023-Sep-14 10-33-48<br/>
+On Test Success  :Multiple_Night_Single_Room_Booking<br/>
+</div>
+</td>
+<td></td>
+<td>47</td>
+<td>UI_Verification.MBSTestAutomate@42a48628</td></tr>
+<tr>
+<td title='UI_Verification.Single_Night_TC.Single_Night_Multiple_RoomBooking_With_Single_RoomType()'><b>Single_Night_Multiple_RoomBooking_With_Single_RoomType</b><br>Test class: UI_Verification.Single_Night_TC<br/>
+<a href="#Output-1376700327" onClick='toggleBox("Output-1376700327", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1376700327" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1376700327">
+Test Started Time   :-  2023-Sep-14 10-41-22<br/>
+On Test Start  :Single_Night_Multiple_RoomBooking_With_Single_RoomType<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-10-12======><br/>
+<======Check-out Date for Booking: 2023-10-13=====><br/>
+<br/>
+<br/>
+No of Booking Days: 1<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+First Name of Guest2 :- Onkar<br/>
+Last Name of Guest2 :- Hajare<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+Test Started Time   :-  2023-Sep-14 10-42-09<br/>
+On Test Success  :Single_Night_Multiple_RoomBooking_With_Single_RoomType<br/>
+</div>
+</td>
+<td></td>
+<td>46</td>
+<td>UI_Verification.Single_Night_TC@38d8f54a</td></tr>
+<tr>
+<td title='UI_Verification.MBSTestAutomate.Verify_Multiple_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage()'><b>Verify_Multiple_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage</b><br>Test class: UI_Verification.MBSTestAutomate<br/>
+<a href="#Output-1027623306" onClick='toggleBox("Output-1027623306", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1027623306" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1027623306">
+Test Started Time   :-  2023-Sep-14 10-36-44<br/>
+On Test Start  :Verify_Multiple_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-09-24======><br/>
+<======Check-out Date for Booking: 2023-10-20=====><br/>
+<br/>
+<br/>
+No of Booking Days: 26<br/>
+<br/>
+<br/>
+HomePageTotalAmount  :-  NZD 11,876<br/>
+CartPageTotal Amount :- NZD 11,876<br/>
+CartPage Total Amount Validated with HomePage Total Amount Successfully <br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+ConfiramtionPageTotalAmount  :- Tax inclusive NZD 11876.00<br/>
+ConfiramtionPage Total Amount Validated With CartPage Total Amount Successfully<br/>
+Test Started Time   :-  2023-Sep-14 10-37-33<br/>
+On Test Success  :Verify_Multiple_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage<br/>
+</div>
+</td>
+<td></td>
+<td>49</td>
+<td>UI_Verification.MBSTestAutomate@42a48628</td></tr>
+<tr>
+<td title='UI_Verification.Single_Night_TC.Single_Night_Multiple_Room_Booking_With_Multiple_RoomTypes()'><b>Single_Night_Multiple_Room_Booking_With_Multiple_RoomTypes</b><br>Test class: UI_Verification.Single_Night_TC<br/>
+<a href="#Output-1883171536" onClick='toggleBox("Output-1883171536", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1883171536" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1883171536">
+Test Started Time   :-  2023-Sep-14 10-42-09<br/>
+On Test Start  :Single_Night_Multiple_Room_Booking_With_Multiple_RoomTypes<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-09-25======><br/>
+<======Check-out Date for Booking: 2023-10-22=====><br/>
+<br/>
+<br/>
+No of Booking Days: 27<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+First Name of Guest2 :- Onkar<br/>
+Last Name of Guest2 :- Hajare<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+First Name of Guest2 :- Onkar<br/>
+Last Name of Guest2 :- Hajare<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+Test Started Time   :-  2023-Sep-14 10-43-02<br/>
+On Test Success  :Single_Night_Multiple_Room_Booking_With_Multiple_RoomTypes<br/>
+</div>
+</td>
+<td></td>
+<td>52</td>
+<td>UI_Verification.Single_Night_TC@38d8f54a</td></tr>
+<tr>
+<td title='UI_Verification.Single_Night_TC.demo()'><b>demo</b><br>Test class: UI_Verification.Single_Night_TC<br/>
+<a href="#Output-1540606524" onClick='toggleBox("Output-1540606524", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1540606524" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1540606524">
+Test Started Time   :-  2023-Sep-14 10-39-06<br/>
+On Test Start  :demo<br/>
+Test Started Time   :-  2023-Sep-14 10-39-09<br/>
+On Test Success  :demo<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>UI_Verification.Single_Night_TC@38d8f54a</td></tr>
+<tr>
+<td title='UI_Verification.Single_Night_TC.Single_Night_Single_Room_SingleBooking_With_Single_Addon()'><b>Single_Night_Single_Room_SingleBooking_With_Single_Addon</b><br>Test class: UI_Verification.Single_Night_TC<br/>
+<a href="#Output-693709097" onClick='toggleBox("Output-693709097", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-693709097" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-693709097">
+Test Started Time   :-  2023-Sep-14 10-39-53<br/>
+On Test Start  :Single_Night_Single_Room_SingleBooking_With_Single_Addon<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-09-16======><br/>
+<======Check-out Date for Booking: 2023-09-17=====><br/>
+<br/>
+<br/>
+No of Booking Days: 1<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+Test Started Time   :-  2023-Sep-14 10-40-37<br/>
+On Test Success  :Single_Night_Single_Room_SingleBooking_With_Single_Addon<br/>
+</div>
+</td>
+<td></td>
+<td>44</td>
+<td>UI_Verification.Single_Night_TC@38d8f54a</td></tr>
+<tr>
+<td title='UI_Verification.MBSTestAutomate.Multiple_Night_Multiple_Room_Booking_With_Multiple_RoomTypes()'><b>Multiple_Night_Multiple_Room_Booking_With_Multiple_RoomTypes</b><br>Test class: UI_Verification.MBSTestAutomate<br/>
+<a href="#Output-1684285431" onClick='toggleBox("Output-1684285431", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1684285431" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1684285431">
+Test Started Time   :-  2023-Sep-14 10-35-29<br/>
+On Test Start  :Multiple_Night_Multiple_Room_Booking_With_Multiple_RoomTypes<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-09-15======><br/>
+<======Check-out Date for Booking: 2023-10-09=====><br/>
+<br/>
+<br/>
+No of Booking Days: 24<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+First Name of Guest2 :- Onkar<br/>
+Last Name of Guest2 :- Hajare<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+First Name of Guest2 :- Onkar<br/>
+Last Name of Guest2 :- Hajare<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+Test Started Time   :-  2023-Sep-14 10-36-20<br/>
+On Test Success  :Multiple_Night_Multiple_Room_Booking_With_Multiple_RoomTypes<br/>
+</div>
+</td>
+<td></td>
+<td>51</td>
+<td>UI_Verification.MBSTestAutomate@42a48628</td></tr>
+<tr>
+<td title='UI_Verification.MBSTestAutomate.Verify_HomePage_Buttons()'><b>Verify_HomePage_Buttons</b><br>Test class: UI_Verification.MBSTestAutomate<br/>
+<a href="#Output-678858277" onClick='toggleBox("Output-678858277", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-678858277" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-678858277">
+Test Started Time   :-  2023-Sep-14 10-36-20<br/>
+On Test Start  :Verify_HomePage_Buttons<br/>
+To Verify all buttons of Homepage is Enabled or not <br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-10-03======><br/>
+<======Check-out Date for Booking: 2023-10-04=====><br/>
+<br/>
+<br/>
+No of Booking Days: 1<br/>
+<br/>
+<br/>
+Member Rate Button is Enabled :- true<br/>
+Search Button is Enabled :-true<br/>
+RatePlan Button is Enabled  :- true<br/>
+View_amenities Button is Enabled :- true<br/>
+Booking Details Page RatePlan name Button is Enabled :- true<br/>
+BookingDetails_CompleteBooking_DownIcon Button is Enabled :- true<br/>
+Booking Details Delete Button is Enabled :- true<br/>
+HomePage CompleteBookingBtn is Enabled :-  true<br/>
+Test Started Time   :-  2023-Sep-14 10-36-44<br/>
+On Test Success  :Verify_HomePage_Buttons<br/>
+</div>
+</td>
+<td></td>
+<td>23</td>
+<td>UI_Verification.MBSTestAutomate@42a48628</td></tr>
+<tr>
+<td title='UI_Verification.Single_Night_TC.Single_Night_Single_RoomBooking()'><b>Single_Night_Single_RoomBooking</b><br>Test class: UI_Verification.Single_Night_TC<br/>
+<a href="#Output-45207973" onClick='toggleBox("Output-45207973", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-45207973" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-45207973">
+Test Started Time   :-  2023-Sep-14 10-39-09<br/>
+On Test Start  :Single_Night_Single_RoomBooking<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-09-24======><br/>
+<======Check-out Date for Booking: 2023-09-25=====><br/>
+<br/>
+<br/>
+No of Booking Days: 1<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+Test Started Time   :-  2023-Sep-14 10-39-53<br/>
+On Test Success  :Single_Night_Single_RoomBooking<br/>
+</div>
+</td>
+<td></td>
+<td>44</td>
+<td>UI_Verification.Single_Night_TC@38d8f54a</td></tr>
+<tr>
+<td title='UI_Verification.MBSTestAutomate.Single_Room_Multiple_Night_Booking_Multiple_Addon()'><b>Single_Room_Multiple_Night_Booking_Multiple_Addon</b><br>Test class: UI_Verification.MBSTestAutomate<br/>
+<a href="#Output-2007704254" onClick='toggleBox("Output-2007704254", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2007704254" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2007704254">
+Test Started Time   :-  2023-Sep-14 10-33-48<br/>
+On Test Start  :Single_Room_Multiple_Night_Booking_Multiple_Addon<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-09-26======><br/>
+<======Check-out Date for Booking: 2023-10-20=====><br/>
+<br/>
+<br/>
+No of Booking Days: 24<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+Test Started Time   :-  2023-Sep-14 10-34-40<br/>
+On Test Success  :Single_Room_Multiple_Night_Booking_Multiple_Addon<br/>
+</div>
+</td>
+<td></td>
+<td>52</td>
+<td>UI_Verification.MBSTestAutomate@42a48628</td></tr>
+<tr>
+<td title='UI_Verification.MBSTestAutomate.Verify_Multiple_Night_Single_Room_Booking_Confirmation_Status()'><b>Verify_Multiple_Night_Single_Room_Booking_Confirmation_Status</b><br>Test class: UI_Verification.MBSTestAutomate<br/>
+<a href="#Output-1844240889" onClick='toggleBox("Output-1844240889", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1844240889" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1844240889">
+Test Started Time   :-  2023-Sep-14 10-37-33<br/>
+On Test Start  :Verify_Multiple_Night_Single_Room_Booking_Confirmation_Status<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-09-15======><br/>
+<======Check-out Date for Booking: 2023-10-01=====><br/>
+<br/>
+<br/>
+No of Booking Days: 16<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+ Booking Status Verified Successfully <br/>
+Test Started Time   :-  2023-Sep-14 10-38-18<br/>
+On Test Success  :Verify_Multiple_Night_Single_Room_Booking_Confirmation_Status<br/>
+</div>
+</td>
+<td></td>
+<td>45</td>
+<td>UI_Verification.MBSTestAutomate@42a48628</td></tr>
+<tr>
+<td title='UI_Verification.MBSTestAutomate.Verify_MailId_MobileNO_for_MultipleNight_SingleRoom_()'><b>Verify_MailId_MobileNO_for_MultipleNight_SingleRoom_</b><br>Test class: UI_Verification.MBSTestAutomate<br/>
+<a href="#Output-423639033" onClick='toggleBox("Output-423639033", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-423639033" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-423639033">
+Test Started Time   :-  2023-Sep-14 10-38-18<br/>
+On Test Start  :Verify_MailId_MobileNO_for_MultipleNight_SingleRoom_<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-10-07======><br/>
+<======Check-out Date for Booking: 2023-10-23=====><br/>
+<br/>
+<br/>
+No of Booking Days: 16<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+Confirmation Page Mail Id :-  onkar@staah.com<br/>
+Mail ID Verified Successfully <br/>
+ Confirmation Page Mobile no :- 8888120130<br/>
+ Mobile Number Verified Successfully <br/>
+Test Started Time   :-  2023-Sep-14 10-39-06<br/>
+On Test Success  :Verify_MailId_MobileNO_for_MultipleNight_SingleRoom_<br/>
+</div>
+</td>
+<td></td>
+<td>48</td>
+<td>UI_Verification.MBSTestAutomate@42a48628</td></tr>
+<tr>
+<td title='UI_Verification.Single_Night_TC.Verify_Single_Night_Single_Room_Booking_Confirmation_Status()'><b>Verify_Single_Night_Single_Room_Booking_Confirmation_Status</b><br>Test class: UI_Verification.Single_Night_TC<br/>
+<a href="#Output-2028160153" onClick='toggleBox("Output-2028160153", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2028160153" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2028160153">
+Test Started Time   :-  2023-Sep-14 10-43-47<br/>
+On Test Start  :Verify_Single_Night_Single_Room_Booking_Confirmation_Status<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-09-19======><br/>
+<======Check-out Date for Booking: 2023-09-20=====><br/>
+<br/>
+<br/>
+No of Booking Days: 1<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+ Booking Status Verified Successfully <br/>
+Test Started Time   :-  2023-Sep-14 10-44-32<br/>
+On Test Success  :Verify_Single_Night_Single_Room_Booking_Confirmation_Status<br/>
+</div>
+</td>
+<td></td>
+<td>44</td>
+<td>UI_Verification.Single_Night_TC@38d8f54a</td></tr>
+<tr>
+<td title='UI_Verification.Single_Night_TC.Verify_MailId_MobileNO_for_SingleNight_SingleRoom_()'><b>Verify_MailId_MobileNO_for_SingleNight_SingleRoom_</b><br>Test class: UI_Verification.Single_Night_TC<br/>
+<a href="#Output-1533639059" onClick='toggleBox("Output-1533639059", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1533639059" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1533639059">
+Test Started Time   :-  2023-Sep-14 10-44-32<br/>
+On Test Start  :Verify_MailId_MobileNO_for_SingleNight_SingleRoom_<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-10-11======><br/>
+<======Check-out Date for Booking: 2023-10-12=====><br/>
+<br/>
+<br/>
+No of Booking Days: 1<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+Confirmation Page Mail Id :-  onkar@staah.com<br/>
+Mail ID Verified Successfully <br/>
+ Confirmation Page Mobile no :- 8888120130<br/>
+ Mobile Number Verified Successfully <br/>
+Test Started Time   :-  2023-Sep-14 10-45-18<br/>
+On Test Success  :Verify_MailId_MobileNO_for_SingleNight_SingleRoom_<br/>
+</div>
+</td>
+<td></td>
+<td>46</td>
+<td>UI_Verification.Single_Night_TC@38d8f54a</td></tr>
+<tr>
+<td title='UI_Verification.MBSTestAutomate.Multiple_Night_Multiple_RoomBooking_With_Single_RoomType()'><b>Multiple_Night_Multiple_RoomBooking_With_Single_RoomType</b><br>Test class: UI_Verification.MBSTestAutomate<br/>
+<a href="#Output-487369776" onClick='toggleBox("Output-487369776", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-487369776" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-487369776">
+Test Started Time   :-  2023-Sep-14 10-34-40<br/>
+On Test Start  :Multiple_Night_Multiple_RoomBooking_With_Single_RoomType<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-10-03======><br/>
+<======Check-out Date for Booking: 2023-10-19=====><br/>
+<br/>
+<br/>
+No of Booking Days: 16<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+First Name of Guest2 :- Onkar<br/>
+Last Name of Guest2 :- Hajare<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+Test Started Time   :-  2023-Sep-14 10-35-29<br/>
+On Test Success  :Multiple_Night_Multiple_RoomBooking_With_Single_RoomType<br/>
+</div>
+</td>
+<td></td>
+<td>48</td>
+<td>UI_Verification.MBSTestAutomate@42a48628</td></tr>
+<tr>
+<td title='UI_Verification.Single_Night_TC.Single_Night_Single_Room_Booking_With_PromoCode()'><b>Single_Night_Single_Room_Booking_With_PromoCode</b><br>Test class: UI_Verification.Single_Night_TC<br/>
+<a href="#Output-390560699" onClick='toggleBox("Output-390560699", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-390560699" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-390560699">
+Test Started Time   :-  2023-Sep-14 10-40-37<br/>
+On Test Start  :Single_Night_Single_Room_Booking_With_PromoCode<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-09-18======><br/>
+<======Check-out Date for Booking: 2023-09-19=====><br/>
+<br/>
+<br/>
+No of Booking Days: 1<br/>
+<br/>
+<br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+Test Started Time   :-  2023-Sep-14 10-41-22<br/>
+On Test Success  :Single_Night_Single_Room_Booking_With_PromoCode<br/>
+</div>
+</td>
+<td></td>
+<td>44</td>
+<td>UI_Verification.Single_Night_TC@38d8f54a</td></tr>
+<tr>
+<td title='UI_Verification.Single_Night_TC.Verify_Single_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage()'><b>Verify_Single_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage</b><br>Test class: UI_Verification.Single_Night_TC<br/>
+<a href="#Output-422751532" onClick='toggleBox("Output-422751532", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-422751532" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-422751532">
+Test Started Time   :-  2023-Sep-14 10-43-02<br/>
+On Test Start  :Verify_Single_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage<br/>
+URL Launched successfully<br/>
+ Close Button not found, continue without clicking<br/>
+<======Check-in Date for Booking: 2023-09-27======><br/>
+<======Check-out Date for Booking: 2023-09-28=====><br/>
+<br/>
+<br/>
+No of Booking Days: 1<br/>
+<br/>
+<br/>
+HomePageTotalAmount  :-  NZD 601<br/>
+CartPageTotal Amount :- NZD 601<br/>
+CartPage Total Amount Validated with HomePage Total Amount Successfully <br/>
+--Guest Details-- <br/>
+First Name of Guest :- Nirav<br/>
+Last Name of Guest :- Patel<br/>
+Contact no of Guest :- 8888120130<br/>
+Mail id of Guest :- onkar@staah.com<br/>
+ConfiramtionPageTotalAmount  :- Tax inclusive NZD 601.00<br/>
+ConfiramtionPage Total Amount Validated With CartPage Total Amount Successfully<br/>
+Test Started Time   :-  2023-Sep-14 10-43-47<br/>
+On Test Success  :Verify_Single_Night_Single_Room_Booking_TotalAmount_For_Home_Cart_ConfirmationPage<br/>
+</div>
+</td>
+<td></td>
+<td>45</td>
+<td>UI_Verification.Single_Night_TC@38d8f54a</td></tr>
+</table><p>
+</body>
+</html>
